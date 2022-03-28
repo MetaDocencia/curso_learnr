@@ -1,4 +1,4 @@
-#Generando tutoriales interactivos con el paquete {learnr}
+# Generando tutoriales interactivos con el paquete {learnr}
 ## Instrucciones pre curso
 
 Para participar en el taller puedes trabajar localmente (si tienes R y RStudio instalado en tu máquina) o utilizar una instancia de R en RStudio Cloud.
